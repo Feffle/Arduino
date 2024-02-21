@@ -1,5 +1,5 @@
 /*
-This is a demonstration of the capabilities of Git and Github. Small change.
+This is a demonstration of the capabilities of Git and Github/
 /*
 
 void setup() {
